@@ -25,7 +25,7 @@ const blogConfig = {
     },
     favicon: 'https://jsd2.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/20250510/梦霞云阴都.9rjm7vhbgu.webp',
     language: 'zh-Hans',
-    qqGroup: '169994096',
+    qqGroup: '1030484607',
     timeEstablished: '2025-06-01',
     timezone: 'Asia/Shanghai',
     url: 'https://blog.dreamerhe.cn/',
